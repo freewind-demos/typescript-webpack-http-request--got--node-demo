@@ -1,7 +1,7 @@
-TypeScript Http Request "got" Demo
-===========================
+TypeScript Http Request "got" Node Demo
+=======================================
 
-使用`got`这个库来请求http request.
+使用webpack打包`got`，在node下运行，请求http request.
 
 ```
 npm install
